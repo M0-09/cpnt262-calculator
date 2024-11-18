@@ -4,7 +4,7 @@
 
 # To use the calculator, run the following command in the terminal:
 
-node calculator.js <operand1> <operator> <operand2>
+node calculator.js < operand1 > < operator > < operand2 >
 
 # example:
 
