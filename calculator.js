@@ -10,6 +10,7 @@ const operations = {
   "*": multiply,
   "/": divide,
 };
+
 // access command-line arguments in Node.js
 const args = process.argv.slice(2);
 
